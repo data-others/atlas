@@ -5,7 +5,7 @@ https://gin.g-node.org/BioMedIA/dhcp-volumetric-atlas-groupwise
 
 Modifications:
 
-1.The images were rotated at z and y axis by 0.03rad to alin midline.
+1.The images were rotated at z and y axis by 0.03rad to align midline.
 2.The origin was moved to the same location as defined in ICBM templates
 
 Reference:
