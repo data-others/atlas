@@ -2,7 +2,7 @@ Resources made public on "MarmosetBrainMapping.org" is licensed under Creative C
 
 The atlas data are derived from MarMarmoset Brain Mapping V3 (Liu C, et al. Marmoset Brain Mapping V3: Population multi-modal standard volumetric and surface-based templates. Neuroimage (2021) doi:10.1016/j.neuroimage.2020.117620.) after the following modifications:
 
-1. The (0,0,0) of V3 atlas is not located at AC. ThE srow matrix in the NIFTI header was modified to
+1. The (0,0,0) of V3 atlas is not located at AC. The srow matrix in the NIFTI header was modified to
 
 0.2 0 0 -14.6
 0 0.2 0 -25.7
