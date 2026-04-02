@@ -1,0 +1,17 @@
+The T2W image is warped from SIGMA template, which has the following cense:
+
+
+
+
+
+The SIGMA templates and atlases for the Wistar Rat Brain
+
+All SIGMA resources (images and software) are released under the Free For Non-Commercial Use Only and the Non-Commercial Software License Agreements of NITRC platform.
+
+1) Free For Non-Commercial Use Only License Agreement
+
+Free for non-commercial use only.
+
+2) Non-Commercial Software License Agreement
+
+SOFTWARE LICENSE AGREEMENT By using the software, you are consenting to be bound by this agreement. If you do not agree to all of the terms of this agreement, exit now and uninstall the software. This Software License Agreement ("Agreement") is made and effective by and between Jon Freeman ("Developer") and you ("Licensee"). Developer has developed and licenses to users its software program under the name MouseTracker (the "Software"). Licensee desires to utilize a copy of the Software. Now, therefore, Developer and Licensee agree as follows: 1. Developer hereby grants to Licensee a perpetual, non-exclusive, limited license to use the Software as set forth in this Agreement. 2. Licensee commits to cite this software in reports and publications, if used: Freeman, J.B. & Ambady, N. (2010). MouseTracker: Software for studying real-time mental processing using a computer mouse-tracking method. Behavior Research Methods, 42, 226-241. 3. Licensee shall not modify, copy, duplicate, reproduce, license or sublicense the Software, or transfer or convey the Software or any right in the Software to anyone. Licensee is free to install and use the software on multiple computers. 4. Developer assumes no responsibility for errors or omissions in the results and interpretations following from application of the Software. Developer shall not be responsible for, and shall not pay, any amount of incidental, consequential or other indirect damages, whether based on lost revenue or otherwise, regardless of whether Developer was advised of the possibility of such losses in advance. 5. Developer specifically disclaims any warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose and any statutory warranty of non-infringement. The software provided hereunder is on an "as is" basis, and Developer has no obligations to provide maintenance, support, updates, enhancements, or modifications. 6. Any notice required by this Agreement or given in connection with it, shall be in writing and shall be given to the appropriate party by personal delivery or by certified mail, postage prepaid, or recognized overnight delivery services. 7. This Agreement terminates and supersedes all prior understandings or agreements on the subject matter hereof. This Agreement may be modified only by a further writing that is duly executed by both parties. 8. If any term of this Agreement is held by a court of competent jurisdiction to be invalid or unenforceable, then this Agreement, including all of the remaining terms, will remain in full force and effect as if such invalid or unenforceable term had never been included.
