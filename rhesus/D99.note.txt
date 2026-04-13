@@ -1,0 +1,21 @@
+# D99 Macaque Atlas v2.0  
+MRI–Histology-Based Rhesus Macaque Brain Atlas  
+
+source: https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_d99v2.html
+The D99 atlas used here is warped from D99 template to the rhesus MDT space.
+
+If you make use of this v2.0 of the D99 atlas, template or accompanying surfaces in your research, please cite this updated 2021 reference:
+
+Saleem KS, Avram AV, Glen D, Yen CC-C, Ye FQ, Komlosh M, Basser PJ (2021). High-resolution mapping and digital atlas of subcortical regions in the macaque monkey based on matched MAP-MRI and histology. Neuroimage 245:118759.
+https://doi.org/10.1016/j.neuroimage.2021.118759
+Note that the cortical or subcortical segmentations and area labels in this atlas should not be modified or altered.
+
+For questions, comments and/or suggestions, contact:
+
+Kadharbatcha Saleem (CNRM/HJF/NICHD-NIH)
+kadharbatcha.saleem.ctr at usuhs.edu
+saleemks at nih.gov
+kadsaleem99 at gmail.com
+Daniel Glen (NIMH, NIH)
+glend at mail.nih.gov
+
