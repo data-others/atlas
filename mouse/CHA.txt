@@ -1,9 +1,9 @@
 1 FRO_Precentral
 2 FRO_Premotor
-3 FRO_Prefrontal
-4 PAR
-5 TEM_Superior
-6 TEM_Inferior
+3 FRO_Prefrontal(PL/ILA/ORB)
+4 PAR(SSp/SSs)
+5 TEM_Superior(AUD)
+6 TEM_Inferior(ECT)
 7 TEM_Medial
 8 TEM_Hippocampus
 9 TEM_Amygdala
