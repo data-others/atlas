@@ -1,0 +1,10 @@
+Agreement:
+Source: Allen Institute for Brain Science — Allen Human Reference Atlas – 3D, 2020
+URL: https://download.alleninstitute.org/informatics-archive/allen_human_reference_atlas_3d_2020/
+Terms of Use: https://alleninstitute.org/terms-of-use/
+
+This atlas is derived from the Allen Human Reference Atlas – 3D, 2020 (Allen Institute for Brain Science), registered to MNI152 space and remapped to contiguous integer region labels with accompanying region names and RGB color table for DSI Studio.
+
+Use and redistribution are subject to the Allen Institute Terms of Use (https://alleninstitute.org/terms-of-use/), including proper attribution and citation of the Allen Institute for Brain Science and the primary reference publication:
+
+Ding, S.-L., Royall, J. J., Sunkin, S. M., Ng, L., Facer, B. A. C., Lesnar, P., Guillozet-Bongaarts, A., McMurray, B., Szafer, A., Dolbeare, T. A., Stevens, A., Tirrell, L., Benner, T., Caldejon, S., Dalley, R. A., Dee, N., Lau, C., Nyhus, J., Reding, M., Riley, Z. L., Sandman, D., Shen, E., van der Kouwe, A., Varjabedian, A., Wright, M., Zöllei, L., Dang, C., Knowles, J. A., Koch, C., Phillips, J. W., Sestan, N., Wohnoutka, P., Zielke, H. R., Hohmann, J. G., Jones, A. R., Bernard, A., Hawrylycz, M. J., Hof, P. R., Fischl, B., & Lein, E. S. (2016). Comprehensive cellular-resolution atlas of the adult human brain. Journal of Comparative Neurology, 524(16), 3127–3481. https://doi.org/10.1002/cne.24080
